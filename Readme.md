@@ -16,6 +16,7 @@
 - Экспорт через Google Takeout больше недоступен.
 - Для конвертации и анализа JSON можно использовать сторонние инструменты (например, преобразовать в CSV/KML и открыть в Google Earth или Excel).
 
+<img width="856" height="677" alt="image" src="https://github.com/user-attachments/assets/1d1a4797-8460-4cff-b43e-1ee5aec4bead" />
 
 # Парсер хронологии в Excel
 
